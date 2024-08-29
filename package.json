@@ -1,0 +1,10 @@
+{
+  "name": "basketball-tournament-task",
+  "version": "1.0.0",
+  "main": "tournament.js",
+  "scripts": {
+    "start": "node tournament.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
